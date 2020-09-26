@@ -14,13 +14,6 @@ pip install -r bibliotecas.txt
 
 # Autores
 
-| Nome                            | Registro Acadêmico |
-| ------|-----|-----|
-| Carlos Augusto Jardim Chiarelli | 165685 |
-| Rodrigo Makoto Takumi           | 176897 |
-
-outra tabela
-
 | ID        | Nome      | Registro Acadêmico |
 | ------|-----|-----|
 | 1  	| **Carlos Augusto Jardim Chiarelli** 	| *165685* 	|
