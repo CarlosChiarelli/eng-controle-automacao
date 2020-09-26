@@ -21,7 +21,7 @@ pip install -r bibliotecas.txt
 
 outra tabela
 
-| Formato        | Sintaxe      | Exemplo |
+| ID        | Nome      | Registro Acadêmico |
 | ------|-----|-----|
-| Itálico  	| \*Text\* 	| *Isto está em itálico* 	|
-| Negrito  	| \*\*Bold\*\* 	| **Isto está em negrito** 	|
+| 1  	| **Carlos Augusto Jardim Chiarelli** 	| *165685* 	|
+| 2  	| **Rodrigo Makoto Takumi** 	| *176897* 	|
