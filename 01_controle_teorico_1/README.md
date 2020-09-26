@@ -1,4 +1,4 @@
-# Controle de sistemas mecânicos (teórico 1)
+# Controle de Sistemas Mecânicos
 
 Contém os projetos do curso "**Controle de Sistemas Mecânicos**" teórico 1.
 
