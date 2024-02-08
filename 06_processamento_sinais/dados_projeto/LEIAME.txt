@@ -1,0 +1,10 @@
+Arquivo para leitura (explicação do projeto):
+RelatorioExplicativo (abrir no navegador de Internet)
+
+Duas maneiras de rodar o código:
+
+Pela IDE Jupyter Notebook:
+projetoFINAL.ipynb
+
+Rodando o código puro em python (porém não printa os gráficos, apenas o resultado das somas das energias, verificação):
+projetofinal.py
